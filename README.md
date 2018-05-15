@@ -1,5 +1,5 @@
 # Chatbot
-AurBot
+AuroBot
 
 
 Using RASA NLU
@@ -10,3 +10,10 @@ To install RASA use
 ```sh
 pip install rasa_nlu
 ```
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+# AWS
+
+Using Amazon Lex and Lambda
